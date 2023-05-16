@@ -1,0 +1,16 @@
+.container{
+    background-color: red;
+    height: 300px;
+    color: white;
+}
+
+
+.container-fluid{
+    background-color: black;
+    height: 300px;
+    color: white;
+}
+
+.margin{
+    margin-bottom: 50px;
+}
